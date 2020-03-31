@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "770040084504",
+    "firebase_url": "https://comparingcolors.firebaseio.com",
+    "project_id": "comparingcolors",
+    "storage_bucket": "comparingcolors.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770040084504:android:fe3631244ad68a116deb6d",
+        "android_client_info": {
+          "package_name": "com.example.lab7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770040084504-n6dud852fq7cp4r7a9lmvl3qq9kk6rcc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lab7",
+            "certificate_hash": "6ad811c4e038344eae9ad0f2ecae4e16596ec9e1"
+          }
+        },
+        {
+          "client_id": "770040084504-qhe26aiilgs27q6hldep62rfqobgcoja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAhhkfSkNP5y51fGdUyPlNpJJCANFMtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770040084504-qhe26aiilgs27q6hldep62rfqobgcoja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

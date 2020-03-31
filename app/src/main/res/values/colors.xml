@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <!-- Список цветов для массива цветов используемых в программе -->
+    <array name="rainbow">
+        <item>#FF0000</item>
+        <item>#FF7F00</item>
+        <item>#FFFF00</item>
+        <item>#00FF00</item>
+        <item>#000000</item>
+        <item>#0000FF</item>
+        <item>#7F00FF</item>
+    </array>
+
+</resources>
